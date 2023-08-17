@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbzyW6v3Z9e+NTOzTYrrpHY3V6RZaX+BTL2ZaCucUdSSAnHE/Z1f9LZdS9/W58crIklVQmEMIlKSwxas8QWeRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sime2\\Downloads\\PRJ (1)\\Console\\Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sime2\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

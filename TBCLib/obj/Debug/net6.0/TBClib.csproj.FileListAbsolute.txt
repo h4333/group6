@@ -1,0 +1,17 @@
+d:\VTCA\PRJ\TBCLib\obj\Debug\net6.0\TBClib.csproj.AssemblyReference.cache
+d:\VTCA\PRJ\TBCLib\obj\Debug\net6.0\TBClib.GeneratedMSBuildEditorConfig.editorconfig
+d:\VTCA\PRJ\TBCLib\obj\Debug\net6.0\TBClib.AssemblyInfoInputs.cache
+d:\VTCA\PRJ\TBCLib\obj\Debug\net6.0\TBClib.AssemblyInfo.cs
+d:\VTCA\PRJ\TBCLib\obj\Debug\net6.0\TBClib.csproj.CoreCompileInputs.cache
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\TBClib.csproj.AssemblyReference.cache
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\TBClib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\TBClib.AssemblyInfoInputs.cache
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\TBClib.AssemblyInfo.cs
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\TBClib.csproj.CoreCompileInputs.cache
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\bin\Debug\net6.0\TBClib.deps.json
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\bin\Debug\net6.0\TBClib.dll
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\bin\Debug\net6.0\TBClib.pdb
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\TBClib.dll
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\refint\TBClib.dll
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\TBClib.pdb
+c:\Users\sime2\Downloads\PRJ (1)\TBCLib\obj\Debug\net6.0\ref\TBClib.dll
